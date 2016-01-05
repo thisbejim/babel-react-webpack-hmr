@@ -1,4 +1,4 @@
-React starter project featuring es6 and react transpiling with babel and hot realoading with the webpack dev server.
+React starter project featuring es6 and react transpiling with babel and hot reloading with the webpack dev server.
 
 ## Usage
 
